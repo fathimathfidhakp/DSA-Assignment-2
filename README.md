@@ -68,6 +68,7 @@ A B C D E F
 4.DFS Starting from A
 
 Depth First Search (DFS) is performed starting from vertex A.
+
 DFS using Adjacency Matrix:
 A B D E F C
 

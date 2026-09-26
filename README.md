@@ -55,7 +55,7 @@ E -> B F
 
 F -> C E
 
-3. BFS Starting from A
+3.BFS Starting from A
 
 Breadth First Search (BFS) is performed starting from vertex A.
 
@@ -64,13 +64,14 @@ A B C D E F
 BFS using Adjacency List
 A B C D E F
 
-4. DFS Starting from A
+4.DFS Starting from A
 Depth First Search (DFS) is performed starting from vertex A.
 DFS using Adjacency Matrix
 A B D E F C
 DFS using Adjacency List
 A B D E F C
-5. Search Operation
+
+5.Search Operation
 
 A search operation is performed to locate vertex F.
 
@@ -83,7 +84,8 @@ Search using Adjacency List
 Vertex F is found.
 
 The program also records the checks performed during the search.
-7. Analysis
+
+7.Analysis
 
 Space Requirements
 

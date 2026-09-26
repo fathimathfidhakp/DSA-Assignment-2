@@ -44,10 +44,15 @@ The graph is represented using an adjacency matrix.
 The graph is represented using an adjacency list.
 
 A -> B C
+
 B -> A D E
+
 C -> A F
+
 D -> B
+
 E -> B F
+
 F -> C E
 
 3. BFS Starting from A

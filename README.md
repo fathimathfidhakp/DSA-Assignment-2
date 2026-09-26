@@ -44,6 +44,7 @@ C -> A F
 D -> B
 E -> B F
 F -> C E
+
 3. BFS Starting from A
 
 Breadth First Search (BFS) is performed starting from vertex A.

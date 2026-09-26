@@ -7,10 +7,15 @@
 The given social network has the following connections:
 
 - A-B
+
 - A-C
+
 - B-D
+
 - B-E
+
 - C-F
+
 - E-F
 
 The vertices are:

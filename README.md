@@ -61,13 +61,16 @@ Breadth First Search (BFS) is performed starting from vertex A.
 
 BFS using Adjacency Matrix
 A B C D E F
+
 BFS using Adjacency List
 A B C D E F
 
 4.DFS Starting from A
+
 Depth First Search (DFS) is performed starting from vertex A.
 DFS using Adjacency Matrix
 A B D E F C
+
 DFS using Adjacency List
 A B D E F C
 
